@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Ahmed , a professional business intelligence analyst.
 
+Results-driven Competitive Intelligence and Market Analyst with over 7 years of experience leveraging data analytics to drive strategic decision-making and business growth. Proficient in SQL, Tableau, advanced Spreadsheets modeling, Cohort Analysis and Retention and Churn Analysis. Expertise in optimizing marketing and product Funnels through comprehensive data interpretation, competitive analysis, and market trend forecasting.
+
 <!--
 **AhmedAboumira/AhmedAboumira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-Results-driven Competitive Intelligence and Market Analyst with over 7 years of experience leveraging data analytics to drive strategic decision-making and business growth. Proficient in SQL, Tableau, advanced Spreadsheets modeling, Cohort Analysis and Retention and Churn Analysis. Expertise in optimizing marketing and product Funnels through comprehensive data interpretation, competitive analysis, and market trend forecasting.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
