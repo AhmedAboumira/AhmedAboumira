@@ -16,7 +16,7 @@ Some facts about me ;
 - 🔭 I wish to participate in outsourcing projects.
 
 📫Feel free to contact me on 
-Github
+Github Or 
 LinkedIn :www.linkedin.com/in/ahmed-aboumira
 Email: ahmed.abumera@hotmail.com
 
